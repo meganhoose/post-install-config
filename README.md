@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure help topics in osTicket
 
 
-<h2>Installation Steps</h2>
+<h2>Configuration Steps</h2>
 
 1. Configure roles
 
